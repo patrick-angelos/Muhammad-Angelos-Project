@@ -1,4 +1,5 @@
 #welcome-section{
+<<<<<<< HEAD
     height: 100vh;
     background-color: purple;
 }
@@ -6,4 +7,23 @@
 #welcome-section h1{
     text-align: auto;
     padding-top:100px;
+=======
+    align-self: center;
+    margin: auto;
+    height: 100vh;
+}
+
+#navbar{
+    margin: 0;
+    position: fixed; 
+}
+
+a{
+    margin-right: 10px;
+}
+
+h1, h2{
+    text-align: center;
+    padding-top: 30%;
+>>>>>>> a22640bfc29b19a6e64c89618acb146937d12e32
 }
