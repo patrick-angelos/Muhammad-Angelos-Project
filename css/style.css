@@ -1,0 +1,19 @@
+#welcome-section{
+    align-self: center;
+    margin: auto;
+    height: 100vh;
+}
+
+#navbar{
+    margin: 0;
+    position: fixed; 
+}
+
+a{
+    margin-right: 10px;
+}
+
+h1, h2{
+    text-align: center;
+    padding-top: 30%;
+}
