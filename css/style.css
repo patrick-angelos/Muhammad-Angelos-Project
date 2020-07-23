@@ -18,12 +18,14 @@ h1{
 
 h2{
     color: white;
+    height: 100px;
     margin: auto;
+    padding-top: 100px;
     text-align: center;
 }
 
 #navbar{
-    margin:0px;
+    margin:10px;
     position: fixed;
     top:0px;
     left:0px;
@@ -34,6 +36,10 @@ h2{
 
 a{
     margin-right: 10px;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 img{
@@ -47,3 +53,17 @@ img{
     justify-content: center;
     margin-top:50px;
 }
+
+#projects{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+#profile-link{
+    background: rgb(51, 51, 51);
+    height: 50px;
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+}   
