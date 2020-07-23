@@ -1,0 +1,9 @@
+#welcome-section{
+    height: 100vh;
+    background-color: purple;
+}
+
+#welcome-section h1{
+    text-align: auto;
+    padding-top:100px;
+}
